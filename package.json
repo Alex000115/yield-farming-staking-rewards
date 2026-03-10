@@ -1,0 +1,9 @@
+{
+  "name": "yield-farming-staking-rewards",
+  "version": "1.0.0",
+  "description": "Synthetix-style staking rewards distribution",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
